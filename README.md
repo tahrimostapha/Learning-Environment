@@ -4,7 +4,7 @@ Ce projet a pour but de maîtriser l'outil **Markdown** et d'apprendre les bases
 Il est subdivisé en plusieurs exercices :
 * [Markdown vers HTML](https://github.com/tahrimostapha/Learning-Environment/tree/master/Markdown%20vers%20HTML)
 * [Markdown vers HTML et CSS](https://github.com/tahrimostapha/Learning-Environment/tree/master/Markdown%20vers%20HTML%20et%20CSS)
-* [HTML basic](https://github.com/tahrimostapha/Learning-Environment/tree/master/HTML%20basic)
+* [HTML basic](https://github.com/tahrimostapha/Learning-Environment/tree/developpement/HTML%20basic)
 * Page 404
 * Créer un CV
 * Sprint: Amélioration Progressive
