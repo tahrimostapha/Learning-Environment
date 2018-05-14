@@ -8,6 +8,7 @@ header{
   height: 85px;
   position: relative;
   margin: 0 auto;
+  padding: 35px 0px;
 }
 
 #header_donate {
@@ -20,5 +21,24 @@ header{
   left: 760px;
   color: white;
   font-family: 'Comic Sans MS', cursive;
-  font-size: 20px;
+  font-size: 25px;
+}
+
+.nav_body nav{
+  width : 940px;
+  height: 50px;
+  margin : auto;
+  background-color: #143d8d;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.nav_body ul li{
+  display:inline-block;
+  padding:5px;
+  text-align: center;
+  font-size: 22px;
+  color: white;
+  font-family: 'Comic Sans MS', cursive;
+
 }
