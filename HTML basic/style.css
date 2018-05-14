@@ -1,0 +1,24 @@
+html{
+  background: url(https://i.pinimg.com/originals/28/aa/fa/28aafa86bad3993068aaa1b176a5b6ae.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+header{
+  width : 940px;
+  height: 85px;
+  position: relative;
+  margin: 0 auto;
+}
+
+#header_donate {
+  width: 158px;
+  height: 40px;
+  text-align: center;
+  background : linear-gradient(to top, rgb(188,64,41), rgb(251, 91, 61));
+  border-radius: 3px;
+  position: absolute;
+  left: 760px;
+  color: white;
+  font-family: 'Comic Sans MS', cursive;
+  font-size: 20px;
+}
