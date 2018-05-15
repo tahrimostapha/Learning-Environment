@@ -1,0 +1,35 @@
+html{
+  background: url(http://i.imgur.com/tz76cqt.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+body{
+  background-image: linear-gradient(45deg, darkorchid, limegreen);
+  width: 90%;
+  margin : auto;
+}
+
+q {
+  display: block;
+  width: 50%;
+  margin: 80px auto;
+  font-size: 160%;
+  color : silver;
+  border-left: 5px solid FireBrick;
+  padding-left: 30px;
+}
+
+p{
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 1.6;
+  font-size: 20px;
+  color: MidnightBlue;
+}
+
+a{
+  color : Orangered;
+}
+
+a:visited{
+  color: DarkOrange;
+}
