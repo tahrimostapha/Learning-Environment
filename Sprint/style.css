@@ -9,14 +9,46 @@ body{
   margin : auto;
 }
 
+header h2{
+  color: Yellow;
+}
+
+header + p{
+  color : Gold;
+}
+
+/*span > em{
+  color : Chocolate;
+}
+*/
+tr:nth-child(even) {
+  background: #CCC
+}
+tr:nth-child(odd) {
+  background: #FFF
+}
+
+img[title]{
+  border: 5px solid Yellow;
+}
+
 q {
   display: block;
   width: 50%;
   margin: 80px auto;
   font-size: 160%;
+  font-style: italic;
   color : silver;
   border-left: 5px solid FireBrick;
   padding-left: 30px;
+}
+
+.fermier{
+  border-left: 5px solid Indigo;
+}
+
+.villageois{
+  border-left: 5px solid Tomato;
 }
 
 p{
@@ -32,4 +64,43 @@ a{
 
 a:visited{
   color: DarkOrange;
+}
+
+span {
+  text-transform: uppercase;
+}
+
+.bien{
+  color: Green;
+}
+
+.mal{
+  color: Red;
+}
+
+.list span{
+  height: 50px;
+  background-repeat: no-repeat;
+  background-position: right;
+  padding-right: 50px;
+  line-height: 50px;
+}
+
+#type_bien{
+  background-image: url(https://raw.githubusercontent.com/becodeorg/lovelace-2/master/01-La-prairie/html-css/progressive-enhancement/bien.png);
+  display: inline-block;
+}
+
+#type_mal{
+  background-image: url(https://raw.githubusercontent.com/becodeorg/lovelace-2/master/01-La-prairie/html-css/progressive-enhancement/mal.png);
+  display: inline-block;
+}
+
+#type_chat{
+  background-image: url(https://raw.githubusercontent.com/becodeorg/lovelace-2/master/01-La-prairie/html-css/progressive-enhancement/chat.png);
+  display: inline-block;
+}
+
+#firstP{
+  font-weight: bold;
 }
