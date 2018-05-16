@@ -78,27 +78,29 @@ span {
   color: Red;
 }
 
+.list li{
+  line-height: 50px;
+  padding-bottom: 15px;
+}
+
 .list span{
   height: 50px;
   background-repeat: no-repeat;
   background-position: right;
   padding-right: 50px;
-  line-height: 50px;
+  display: inline-block;
 }
 
 #type_bien{
   background-image: url(https://raw.githubusercontent.com/becodeorg/lovelace-2/master/01-La-prairie/html-css/progressive-enhancement/bien.png);
-  display: inline-block;
 }
 
 #type_mal{
   background-image: url(https://raw.githubusercontent.com/becodeorg/lovelace-2/master/01-La-prairie/html-css/progressive-enhancement/mal.png);
-  display: inline-block;
 }
 
 #type_chat{
   background-image: url(https://raw.githubusercontent.com/becodeorg/lovelace-2/master/01-La-prairie/html-css/progressive-enhancement/chat.png);
-  display: inline-block;
 }
 
 #firstP{
