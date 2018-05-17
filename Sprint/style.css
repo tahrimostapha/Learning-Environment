@@ -30,6 +30,8 @@ tr:nth-child(odd) {
 
 img[title]{
   border: 5px solid Yellow;
+  float: right;
+  margin: 0 0 1em 1em;
 }
 
 q {
