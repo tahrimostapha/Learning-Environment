@@ -27,4 +27,6 @@ Tu vas réaliser un minisite d'une page (= un *one-pager*) présentant une assoc
 - Fais plus joli que cela n'est via du CSS
 - Insère une vidéo hébergée sur Youtube.
 
+Site modèle : [https://demo.goodlayers.com/greenearth/](https://demo.goodlayers.com/greenearth/)
+
 [retour accueil](https://github.com/tahrimostapha/Learning-Environment)
