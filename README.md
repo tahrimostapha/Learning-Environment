@@ -5,7 +5,7 @@ Il est subdivisé en plusieurs exercices :
 * [Markdown vers HTML](https://github.com/tahrimostapha/Learning-Environment/tree/master/Markdown%20vers%20HTML)
 * [Markdown vers HTML et CSS](https://github.com/tahrimostapha/Learning-Environment/tree/master/Markdown%20vers%20HTML%20et%20CSS)
 * [HTML basic](https://github.com/tahrimostapha/Learning-Environment/tree/developpement/HTML%20basic)(Non achevé).
-* Page 404
+* [Page 404](https://github.com/tahrimostapha/Learning-Environment/tree/developpement/Page%20404)
 * Créer un CV
 * [Sprint: Amélioration Progressive](https://github.com/tahrimostapha/Learning-Environment/tree/developpement/Sprint)
 * Vcard en HTML

@@ -30,6 +30,7 @@ body{
 .error_404_message{
   font-size: 125%;
   opacity: 0.2;
+  margin-bottom: 30%;
 }
 
 .error_404_message:hover{
