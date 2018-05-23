@@ -1,0 +1,147 @@
+body{
+    width : 100%;
+    margin: auto;
+    background-color: #333333;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
+
+header{
+    background-color: #333333;
+    color : white;
+    display: flex;
+    line-height: 50px;
+}
+
+header img{
+    width : 50px;
+    height: 50px;
+    margin-right: 20px;
+    margin-left: 10%;
+}
+
+main{
+  background-color: white;
+}
+
+.main_nav{
+    flex: 5;
+}
+
+.main_nav a{
+    margin-right: 15px;
+}
+
+.log_in{
+    flex: 1;
+}
+
+footer{
+    background-color: #333333;
+    color : white;
+    display: flex;
+}
+
+footer span{
+    margin-right: 15px;
+}
+
+.footer_nav{
+    flex : 9;
+    margin-left: 15px;
+}
+
+.footer_nav a{
+    margin-right: 15px;
+}
+
+.top_content_wrapper{
+    background-color: #1E93CC;
+    color : white;
+    text-align: center;
+}
+
+.top_content{
+  background-image: url("avatar.png");
+  background-repeat: no-repeat;
+  background-position: left;
+  width: 960px;
+  margin: 0 auto;
+}
+
+.top_content img{
+    width : 100px;
+    height: 100px;
+}
+
+h1{
+    margin-top: 0;
+    font-size: 125%;
+}
+
+.middle_content{
+    background-color: #1E93CC;
+    color : white;
+}
+
+.middle_content_row{
+  display: flex;
+}
+
+.middle_content_row section{
+  flex : 1;
+  padding: 0 75px;
+}
+
+.sponsors{
+    background-color: #EEEEEE;
+    text-align: center;
+}
+
+.sponsors li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+.catchphrase_top{
+    text-align: center;
+}
+
+.catchphrase_top h2{
+  font-size: 125%;
+}
+
+.catchphrase_bottom{
+    text-align: center;
+}
+
+.catchphrase_bottom h2{
+  font-size: 125%;
+  color: DimGray;
+}
+
+.buttons{
+    text-align: center;
+}
+
+.normal_button{
+    background-color: #165882;
+    border-radius: 7px;
+    color: white;
+    padding: 15px 50px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 125%;
+    margin : 25px 0;
+}
+
+.orange_button{
+  background-color: #e99002;
+  border: 3px solid white;
+  border-radius: 7px;
+  color: white;
+  padding: 15px 50px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 125%;
+  margin : 25px 0;
+}

@@ -1,0 +1,41 @@
+@font-face {
+    font-family: PressStart;
+    src: url(./PressStart2P.ttf);
+}
+
+@keyframes shineMsg {
+    from {opacity: 0.2;}
+    to {opacity: 1;}
+}
+
+body{
+    width : 100%;
+    margin: auto;
+    background-image: url(./MarioBackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: PressStart;
+    text-align: center;
+}
+
+.error_404{
+  color: red;
+  font-size: 300%;
+  width: 100%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.error_404_message{
+  font-size: 125%;
+  opacity: 0.2;
+  margin-bottom: 30%;
+}
+
+.error_404_message:hover{
+  font-size: 125%;
+  animation-name: shineMsg;
+  animation-duration: 0.3s;
+  animation-iteration-count:infinite;
+}
