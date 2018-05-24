@@ -78,6 +78,10 @@ h3{
   font-size: 50px;
 }
 
+.movies_articles{
+  clear: left;
+}
+
 .movies_articles img{
   float: left;
   width: 25%;
